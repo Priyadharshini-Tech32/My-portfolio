@@ -1,9 +1,9 @@
-# Priyadharshini T — Official Engineering Portfolio
+# Priyadharshini T — Personal Engineering Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Active-00f0ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://priyadharshini-tech32.github.io/My-portfolio/)
-[![License](https://img.shields.io/badge/License-MIT-00ff9d?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Active-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://priyadharshini-tech32.github.io/My-portfolio/)
+[![License](https://img.shields.io/badge/License-MIT-059669?style=for-the-badge)](LICENSE)
 
-A high-performance personal engineering portfolio designed for **Priyadharshini T**, Information Technology Engineer at Sri Ramakrishna Institute of Technology (SRIT), Coimbatore.
+A clean, aesthetic, lightweight personal portfolio website for **Priyadharshini T**, Information Technology student at Sri Ramakrishna Institute of Technology (SRIT), Coimbatore.
 
 ---
 
@@ -13,28 +13,27 @@ Access the live deployment directly via GitHub Pages:
 
 ---
 
-## 🧭 Architecture & Architecture Highlights
+## 🧭 Portfolio Structure
 
-The portfolio is structured with dedicated, high-speed routes:
+The portfolio is structured with dedicated, fast-loading static pages:
 
-- **🏠 Home (`index.html`)**: Central interactive topology stage with animated circuit connections, synthesized Web Audio, and quick-access nodes.
-- **⚡ Featured Projects (`projects.html`)**:
-  - **AI-Powered Supermarket Operations System** (Gemini API Function Calling, Node.js, SQLite, Telegram Bot API)
-  - **Startup-Investor Platform** (Django, PostgreSQL, REST APIs, KYC Security)
-  - **Reude Sales & Inventory Platform** (Core Java, Relational DBMS, SQL)
-- **💼 Work Experience (`experience.html`)**: Infosys Springboard Team Leader (Completed • Cohort 7.0), NXTLogic, IDM Techpark, and Rotaract VP.
-- **💻 Technical Skills (`skills.html`)**: Core Java, Python, Node.js, Gemini API, SQLite, PostgreSQL, HTML5/CSS3, Git.
-- **🏆 Certifications (`certificates.html`)**: Proctored Cambridge B1, NPTEL IIT, HackerRank, GUVI, and Hackathon honors (SIH, TANCAM).
-- **📡 Contact (`contact.html`)**: Direct verified channels (Email, LinkedIn, GitHub).
+- **🏠 Home (`index.html`)**: Welcoming presentation showcasing my background, quick navigation hub cards, verified metrics (CGPA 8.4, Rotaract VP), and quick email contact actions.
+- **💻 Featured Projects (`projects.html`)**:
+  - **Smart Kirana & Supermarket Operations Assistant** (Node.js, SQLite, Telegram Bot API, Gemini Function Calling)
+  - **Startup-Investor Collaboration Platform** (Django, PostgreSQL, REST APIs, Secure KYC verification)
+  - **Reude Sales & Inventory Platform** (Core Java, Relational DBMS, SQL Queries)
+- **💼 Work Experience & Leadership (`experience.html`)**: Infosys Springboard Team Leader (Completed • Cohort 7.0), NXTLogic Web Dev Intern, IDM Techpark Java Intern, and Rotaract VP.
+- **🛠️ Technical Skills (`skills.html`)**: Core Java, Python, Node.js, PostgreSQL, SQLite, HTML5/CSS3, Git & GitHub.
+- **🏆 Certifications & Achievements (`certificates.html`)**: Proctored Cambridge B1, NPTEL IIT Software Testing, HackerRank, GUVI, and Hackathon honors (SIH, TANCAM).
+- **📬 Contact (`contact.html`)**: Direct verified channels (Email, LinkedIn, GitHub).
 
 ---
 
-## 🛠️ Tech Stack & Implementation Details
+## 🛠️ Design & Tech Stack
 
-- **Zero External Heavy Frameworks**: Pure HTML5, CSS Grid/Flexbox, and vanilla JavaScript for sub-second load times.
-- **Web Audio API**: Browser-native harmonic audio synthesizer with interactive user toggle.
-- **Dynamic HTML5 Canvas**: Unique background animations (Circuit matrix, pulse grids, hexagonal networks, radar sweeps).
-- **Fully Responsive**: Optimized for high-DPI desktop, tablet, and mobile devices.
+- **Aesthetic Light Palette**: Warm ivory background with delicate typography, modern card layouts, and subtle warm pastel accents.
+- **Zero Heavy Frameworks**: Pure HTML5, CSS Grid/Flexbox, and vanilla JavaScript for sub-second load times.
+- **Accessible & Responsive**: Fully tested and optimized across mobile, tablet, and high-DPI desktop viewports.
 
 ---
 
